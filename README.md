@@ -20,9 +20,9 @@
 </picture>
 <picture>
       <source
-              sourceset="https://github-readme-stats.vercel.app/api/wakatime?username=Oh-linalan"
+              sourceset="https://github-readme-stats.vercel.app/api/wakatime?username=linalan"
               />
       <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=Oh-linalan"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=linalan"
       />
 </picture>
