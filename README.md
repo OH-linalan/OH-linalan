@@ -18,3 +18,11 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-linalan&langs_count=8"
       />
 </picture>
+<picture>
+      <source
+              sourceset="https://github-readme-stats.vercel.app/api/wakatime?username=Oh-linalan"
+              />
+      <img
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=Oh-linalan"
+      />
+</picture>
