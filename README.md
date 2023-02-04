@@ -18,11 +18,5 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-linalan&langs_count=8"
       />
 </picture>
-<picture>
-      <source
-              sourceset="https://github-readme-stats.vercel.app/api/wakatime?username=linalan"
-              />
-      <img
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=linalan"
-      />
-</picture>
+
+<h3><b>광운대학교 컴퓨터공학과 재학중</b></h3>
