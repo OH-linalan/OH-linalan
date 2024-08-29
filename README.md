@@ -1,5 +1,8 @@
 # 오현명 (OH HYUNMYUNG)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=linalan)](https://solved.ac/linalan)
+
 ### 거주
 
 충청남도 서천군  
